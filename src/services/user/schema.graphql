@@ -1,0 +1,6 @@
+query MeEssentialData {
+  me {
+    id
+    email
+  }
+}
